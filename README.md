@@ -1,16 +1,17 @@
-## Hi there 👋
+> Hi there 👋 I'm Yumacyb
 
-<!--
-**Yumacyb/Yumacyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Security @ Beijing Institute of Graphic Communication
+🛡️ Research Interests: AI Red Teaming & LLM Security
+🎯 Mission: Uncover vulnerabilities in AI Agents and harden AIGC systems
 
-Here are some ideas to get you started:
+#🚀 Learning Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fundamentals of C Programming
+- Python for Cybersecurity
+- Prompt Injection & OWASP LLM Top 10
+- AI Agent Security Assessment
+
+#🧰 Lab & Tooling
+
+- Gandalf (Lakera)
+- LLM SecRange (Coming soon...)
