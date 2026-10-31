@@ -6,7 +6,7 @@
 
 #🚀 Learning Progress
 
-- Fundamentals of C Programming
+√ Fundamentals of C Programming
 - Python for Cybersecurity
 - Prompt Injection & OWASP LLM Top 10
 - AI Agent Security Assessment
